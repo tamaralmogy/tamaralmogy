@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamar Almogy</h1>
-<h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on **a website for computer science students seeking their first job.**
+- 🔭 I’m currently working on **a Mentor/Mentee app.**
 
 - 🌱 I’m currently **in my third year of a Computer Science BSc**
 
