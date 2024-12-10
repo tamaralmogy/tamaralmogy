@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **a Mentor/Mentee app.**
 
-- 🌱 I’m currently **in my third year of a Computer Science BSc**
+- 🌱 I’m currently **in my fourth year of a Computer Science BSc**
 
 - 💬 Ask me about **SVM**
 
