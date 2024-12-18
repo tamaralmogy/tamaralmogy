@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tamar Almogy</h1>
 
-- 🔭 I’m currently working on **a Mentor/Mentee app.**
+- 🔭 I’m currently working on **Tagging data for a NER task**
 
 - 🌱 I’m currently **in my fourth year of a Computer Science BSc**
-
-- 💬 Ask me about **SVM**
 
 - 📫 How to reach me **almogytamar@gmail.com**
 
